@@ -1,0 +1,41 @@
+Chatter.dev License Agreement
+
+Version 1.0, 5/21/2024
+
+License Grant
+Chatter Software Development Inc. ("Licensor", "Chatter", or "Chatter.dev") hereby grants permission to any person or entity obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, and distribute the Docker files included in the repository solely for the purpose of deploying the Software on a local machine or redeploying it for third-party integrators, subject to the following conditions:
+
+Restrictions
+a. The source code and executable files included in this repository are proprietary and closed source. Redistribution or modification of the source code or executable files is strictly prohibited.
+b. Users are not permitted to reverse engineer, decompile, or disassemble the executable files.
+
+Intended Use
+The Software is intended to be used in conjunction with the Chatter service. Any use of the Software without integration or use of the Chatter service is not permitted under this License.
+
+Modifications
+a. Users are permitted to modify the Docker files and other associated configuration files to suit their deployment needs.
+b. Any modifications to the Docker files and associated configuration files are to be shared openly within the scope of this repository.
+
+Third-Party Drivers
+Any drivers or other software developed by, or provided by third parties and packaged with, or used in conjunction with the Software are subject to their own licenses. Licensor is not responsible for such third-party software and makes no representations or warranties regarding such software.
+
+Ownership
+a. All rights, title, and interest in and to the Software, including all intellectual property rights therein, are and shall remain the property of Licensor.
+b. This License does not grant you any rights to use Licensor’s trademarks, service marks, logos, or other commercial designations.
+
+Disclaimer of Warranty
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+Limitation of Liability
+In no event will Licensor be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of the use of or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+Termination
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from Licensor if you fail to comply with any term(s) of this License. Upon termination, you must destroy all copies of the Software in your possession or control.
+
+Governing Law
+This License shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+Entire Agreement
+This License constitutes the entire agreement between you and Licensor with respect to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+By using the Software, you agree to be bound by the terms and conditions of this License.

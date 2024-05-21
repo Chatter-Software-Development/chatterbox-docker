@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  
+  daemon:
+    build:
+      context: ./daemon
+      dockerfile: Dockerfile
+    container_name: daemon
+    restart: always
+    env_file:
+      - .env
+
+  fanuc:
+    build:
+      context: ./fanuc
+      dockerfile: Dockerfile
+    container_name: fanuc
+    restart: always
+    env_file:
+      - .env
+
+  # connector:
+  #   build:
+  #     context: ./connector
+  #     dockerfile: Dockerfile
+  #   container_name: connector
+  #   restart: always
+  #   env_file:
+  #     - .env
