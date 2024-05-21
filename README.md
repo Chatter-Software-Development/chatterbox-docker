@@ -38,7 +38,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 ### Clone the Repository
 Clone this repository your local machine. First navigate to your desired directory (home directory is recommended `cd ~`) and run the following commands:
 ```bash
-git clone https://github.com/yourusername/chatterbox-docker.git
+git clone https://github.com/Chatter-Software-Development/chatterbox-docker.git
 cd chatterbox-docker
 ```
 
